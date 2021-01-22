@@ -1,4 +1,4 @@
-# TechnologieInformacyjne2
+# Technologie informacyjne 2
 
 Repozytorium z materiałami z laboratorium Technologie Informacyjne na Politechnice Poznańskiej
 
